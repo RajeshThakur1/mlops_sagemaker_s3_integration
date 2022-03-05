@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/expriments/aws/ml_flow_demo/mlruns/0/f3b04de527bf4e79b6ca3ed776a59967/artifacts
+end_time: 1646453855689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f3b04de527bf4e79b6ca3ed776a59967
+run_uuid: f3b04de527bf4e79b6ca3ed776a59967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646453851697
+status: 3
+tags: []
+user_id: Rajesh Thakur
